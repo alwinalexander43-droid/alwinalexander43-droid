@@ -7,8 +7,9 @@
 <h1 align="center">Hey !! This is Alwin 👋</h3>
 <br clear="both">
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width=" 200" height="150"  alt="animated hello">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width=" 19000" height="450"  alt="animated hello">
 
+.
 
 <p align="left">A Materials & Manufacturing Engineer with an MSc from Chalmers University of Technology (GPA 4.0/5.0) and over 1 year of dedicated experience in lithium-ion battery electrode and binder material synthesis, slurry formulation, cell fabrication, and electrochemical characterization. Hands-on expertise across anode and cathode systems (LFP, LFMP, NMC) with proven ability to develop and evaluate novel binder materials for sustainable electrode manufacturing. Published researcher in Journal of Asian Ceramic Societies. Certified Lean Six Sigma Green Belt. Passionate about advancing battery materials R&D from lab-scale synthesis to industrial scale-up.
 
