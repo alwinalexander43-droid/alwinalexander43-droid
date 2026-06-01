@@ -1,9 +1,7 @@
-# About-Me!!
+<h1 align="center"> About-Me!! </h6>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200" height="350"  >
 <br><br>
-
-
 <h1 align="center">Hey !! This is Alwin 👋</h3>
 <br clear="both">
 <div align="center">
