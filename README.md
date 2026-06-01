@@ -59,16 +59,20 @@
 
 <h1 align="center"> I Play with Chemicals⚗️🧪</h4>
 <br><br>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="300"height="400">
+<h2 align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="400"height="500"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400"height="400">
+<br><br>
+  <h2 align="right">
+
 
 <h1 align="center">My Paper Published 📜!! </h4>
 
 https://www.tandfonline.com/doi/full/10.1080/21870764.2024.2351658
 .
 <h1 align="center">           </h4>
-<img width="300" height="220" alt="WhatsApp Image 2025-04-16 at 6 53 23 PM" src="https://github.com/user-attachments/assets/bf1e529b-2784-4979-9f37-e77e4e2ee50d" />
+<img width="400" height="320" alt="WhatsApp Image 2025-04-16 at 6 53 23 PM" src="https://github.com/user-attachments/assets/bf1e529b-2784-4979-9f37-e77e4e2ee50d" />
 
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300" height="220">
+<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="400" height="320">
 <br><br>
 
 <h1 align="center"> Few Pictureeyyyy</h4>
