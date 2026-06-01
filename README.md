@@ -1,7 +1,4 @@
-## Hi there 👋
-
 # About-Me!!
-
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200" height="350"  >
 <br><br>
@@ -27,6 +24,9 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/alwin-alexander-rajan-720010185/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="152" height="140" alt="linkedin logo" />
+  </a>
+  <a href="alwinalexander43@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="152" height="140" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/918838082181" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="152" height="140" alt="whatsapp logo" />
@@ -59,9 +59,25 @@
 <br><br>
 
 <h1 align="center"> I Play with Chemicals⚗️🧪</h4>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="300"height="400">
+
+<h1 align="center">My Paper Published 📜!! </h4>
+
+https://www.tandfonline.com/doi/full/10.1080/21870764.2024.2351658
+.
+<h1 align="center">           </h4>
+<img width="300" height="220" alt="WhatsApp Image 2025-04-16 at 6 53 23 PM" src="https://github.com/user-attachments/assets/bf1e529b-2784-4979-9f37-e77e4e2ee50d" />
+
+<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300" height="220">
 <br><br>
 
+<h1 align="center"> Few Pictureeyyyy</h4>
+<img width="7008" height="4672" alt="A (246)" src="https://github.com/user-attachments/assets/e1372a05-7912-4490-8873-0f575ddbe2b3" />
+
+<img width="2268" height="4032" alt="PXL_20230930_084924839" src="https://github.com/user-attachments/assets/20bdf9f1-78bf-4e3e-b5f5-414df305ef73" />
+
+<img width="2048" height="1152" alt="WhatsApp Image 2026-03-08 at 7 24 50 PM (1)" src="https://github.com/user-attachments/assets/c4faf52c-ffd4-43d5-8a08-a48fc4c199dc" />
 
 
 <!--
